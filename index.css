@@ -1,0 +1,12 @@
+p{
+    font-size: 20pt;
+    margin: 50px;
+}
+
+.second { 
+    color: aqua;
+}
+
+p#force {
+    background-color: blueviolet;
+}
